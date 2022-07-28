@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', admin.site.urls),
     path('', admin.site.urls, 'fddddfd'),
+    path('', admin.site.urls, 'fdgdfdfhfghfdfd'),
 ]
